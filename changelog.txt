@@ -1,2 +1,3 @@
-dp 1.793 更新如下：
-优化：增加掌纹余额为0自动登出
+dp 1.8 更新如下：
+新增：Monad Day 19
+2b33e13bd4bd3e9fb1100bbe507692c04cea689c78dfcbf24507eb43afe08f0f
