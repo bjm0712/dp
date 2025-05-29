@@ -1,14 +1,2 @@
-Version 1.77:
-新增：Monad Day 18
-新增：脚本动态更新提醒（排除每天早8至9点）
-补充：其中这关hashflow_com_swap屏蔽国IP，祥青看群图
-
-Version 1.78:
-同步更新：nodego登陆、签到流程
-同步更新：掌纹、转盘、coresky
-
-Version 1.79:
-优化：增加掌纹余额为0自动登出
-
 Version 1.8:
 新增：Monad Day 19
