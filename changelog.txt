@@ -2,5 +2,5 @@ Version 1.8:
 新增：Monad Day 19
 
 Version 1.81:
-新增：Yala（见腾讯文档18-1至18-4）
+新增：Yala（腾讯文档18-1至18-4）
 优化：掌纹Claim、适配最新OK钱包
