@@ -10,3 +10,10 @@ Version 1.82:
 优化：适配新版OK钱包助记词和私钥
 优化：Modan Day 19之multipli_fi_stake
 增强：支持X申诉自动填写申诉内容，见6-6
+
+Version 1.83:
+[2025.6.3 更新]
+新增：Monad Day 20
+(后续不再新增Monad任务)
+(把之前的日活拿来当周活跑)
+优化：X申诉流程
