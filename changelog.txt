@@ -24,3 +24,9 @@ Version 1.85:
 新增：WebShare多文件批量替换，见7-18（不懂远程）
 优化：Yala反馈出现的新情况
 优化：高级屏蔽(7-15)不受task_operation_switch影响
+
+Version 1.86:
+[2025.6.7 更新]
+dp 1.86 更新如下：
+优化：CoreSky签到
+开发中：Somnia新任务...
