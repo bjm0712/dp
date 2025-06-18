@@ -53,3 +53,12 @@ Version 1.89:
 Version 1.90:
 [2025.6.12 更新]
 同步更新：yala签到和反馈
+
+Version 1.91:
+新增：[一次性任务]chaoslabs 见19-2
+新增：[新任务]ogai，见11-4
+新增：[精品号任务]saharalabs，见20-3
+新增：[精品号任务]somnia，见20-2
+新增：[精品号任务]monad领水，见20-1
+同步更新：yala移除send back反馈
+支持：Yescaptcha 1.2.2 见7-10
