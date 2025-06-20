@@ -62,3 +62,8 @@ Version 1.91:
 新增：[精品号任务]monad领水，见20-1
 同步更新：yala移除send back反馈
 支持：Yescaptcha 1.2.2 见7-10
+
+Version 1.92:
+优化：chaoslabs 见19-2
+优化：Monad Day 2 之 aicraft_fun
+优化：Monad Day 8 之 conft_app_domain
