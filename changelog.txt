@@ -67,3 +67,4 @@ Version 1.92:
 优化：chaoslabs 见19-2
 优化：Monad Day 2 之 aicraft_fun
 优化：Monad Day 8 之 conft_app_domain
+优化：OK钱包登陆支持risk取消
