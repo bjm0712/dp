@@ -68,3 +68,8 @@ Version 1.92:
 优化：Monad Day 2 之 aicraft_fun
 优化：Monad Day 8 之 conft_app_domain
 优化：OK钱包登陆支持risk取消
+
+Version 1.93:
+移除时间限制：0g领水 见11-1
+移除时间限制：撒哈拉 见20-3-1和20-3-2
+新增0g生态：第1天、第2天 见11-2
