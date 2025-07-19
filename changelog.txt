@@ -1,8 +1,8 @@
 Version 2.14:
 [2025.7.19更新]
 优化：faroswap 组合B 21-10-4
-faroswap 组合A 适合主打少部分号，稳
-faroswap 组合B 适合阳光普照，快但成功率一般
+faroswap 组合A 适合主打少部分号，稳但很慢
+faroswap 组合B 适合阳光普照，很快，但成功率一般
 
 Version 2.13:
 [2025.7.18更新]
