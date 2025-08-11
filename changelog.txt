@@ -1,3 +1,7 @@
+Version 2.38:
+[2025.8.11更新]
+同步更新：Aprior 成功XPATH
+
 Version 2.37:
 [2025.8.11更新]
 新增：GTE新任务Swap 23-4
