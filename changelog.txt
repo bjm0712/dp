@@ -1,3 +1,7 @@
+Version 2.43:
+[2025.8.20更新]
+新增：Fluent MINT NFT 见24-2
+
 Version 2.42:
 [2025.8.19更新]
 新增：Fluent 领水 见24-1
