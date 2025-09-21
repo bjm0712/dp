@@ -1,3 +1,8 @@
+Version 2.57:
+[2025.9.22更新]
+新增：GoKite KKA AI问答 27-3
+新增：GoKite 每日答题 27-9
+
 Version 2.56:
 [2025.9.21更新]
 新增：GoKite 注册 27-1
