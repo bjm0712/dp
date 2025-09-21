@@ -1,6 +1,7 @@
-Version 2.55:
+Version 2.56:
 [2025.9.21更新]
-新增：GoKite 27-1
+新增：GoKite 注册 27-1
+新增：GoKite Stake领水 27-2
 
 Version 2.54:
 [2025.9.18更新]
