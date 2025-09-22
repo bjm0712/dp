@@ -1,3 +1,7 @@
+Version 2.58:
+[2025.9.22更新]
+优化：GoKite Stake 领水 27-2
+
 Version 2.57:
 [2025.9.22更新]
 新增：GoKite KKA AI问答 27-3
