@@ -1,3 +1,9 @@
+Version 2.59:
+[2025.9.24更新]
+新增：GoKite 质押 27-4
+同步更新：Tea-Fi 25-2
+同步更新：YesCaptcha支持1.2.12
+
 Version 2.58:
 [2025.9.22更新]
 优化：GoKite Stake 领水 27-2
