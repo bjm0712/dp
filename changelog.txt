@@ -1,3 +1,7 @@
+Version 2.62:
+[2025.9.28更新]
+新增：GoKite 跨链 27-7
+
 Version 2.61:
 [2025.9.26更新]
 新增：GoKite Swap 27-6
