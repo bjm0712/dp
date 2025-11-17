@@ -1,6 +1,6 @@
-Version 2.97:
+Version 2.98:
 [2025.11.17更新]
-新增：Swap之Curve 29-8
+优化：Swap之Curve 29-8
 
 Version 2.96:
 [2025.11.15更新]
