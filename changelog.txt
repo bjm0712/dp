@@ -1,3 +1,10 @@
+Version 3.46:
+[2026.1.3更新]
+新增：SoSoValue 配号第一步 33-2
+新增：SoSoValue 配号第二步 33-3
+新增：SoSoValue 每日签到 33-4
+优化：Tempo 每日签到 32-6
+
 Version 3.45:
 [2025.12.31更新]
 新增：Decibel.Trade 19-7
