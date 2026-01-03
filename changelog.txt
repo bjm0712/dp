@@ -1,3 +1,7 @@
+Version 3.47:
+[2026.1.3更新]
+修复：SoSoValue 邀请码错误
+
 Version 3.46:
 [2026.1.3更新]
 新增：SoSoValue 配号第一步 33-2
