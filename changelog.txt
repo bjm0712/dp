@@ -1,4 +1,4 @@
-Version 3.47:
+Version 3.48:
 [2026.1.3更新]
 修复：SoSoValue 邀请码格式错误
 
