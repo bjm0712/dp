@@ -1,3 +1,7 @@
+Version 3.49:
+[2026.1.4更新]
+优化：SoSoValue 配号第二步 33-3
+
 Version 3.48:
 [2026.1.3更新]
 修复：SoSoValue 邀请码格式错误
