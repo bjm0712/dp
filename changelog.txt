@@ -1,3 +1,8 @@
+Version 3.54:
+[2026.1.8更新]
+新增：SoSoValue 使用X注册 32-2-2
+新增：SoSoValue 检查或绑定钱包 33-5
+
 Version 3.53:
 [2026.1.7更新]
 优化：SoSoValue 每日签到 33-4
