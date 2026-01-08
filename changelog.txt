@@ -1,3 +1,7 @@
+Version 3.55:
+[2026.1.8更新]
+优化：SoSoValue 使用X注册 32-2-2
+
 Version 3.54:
 [2026.1.8更新]
 新增：SoSoValue 使用X注册 32-2-2
