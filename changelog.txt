@@ -1,4 +1,4 @@
-Version 3.67:
+Version 3.68:
 [2026.1.19更新]
 优化：SOSO 每日签到 33-4
 优化：Twitter/X 配号一些细节
