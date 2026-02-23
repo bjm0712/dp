@@ -1,5 +1,7 @@
-Version 4.13:
+Version 4.14:
 [2026.2.23更新]
+升级：Perle 勋章领取 35-2-3
+新增：Perle DC加群 35-2-5
 新增：Perle 第九题 35-2-8
 
 Version 4.12:
