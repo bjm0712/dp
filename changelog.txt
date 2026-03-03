@@ -1,4 +1,4 @@
-Version 4.23
+Version 4.24
 [2026.3.4更新]
 优化：Perle 退出自登录
 
