@@ -1,4 +1,4 @@
-Version 4.34
+Version 4.35
 [2026.3.22更新]
 优化：Konnex 签到 34-2
 
