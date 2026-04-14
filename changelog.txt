@@ -1,3 +1,7 @@
+Version 4.36
+[2026.4.14更新]
+新增：SimpleChain 36-1至36-3
+
 Version 4.35
 [2026.3.22更新]
 优化：Konnex 签到 34-2
