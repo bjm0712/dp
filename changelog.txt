@@ -1,4 +1,4 @@
-Version 4.39
+Version 4.40
 [2026.4.14更新]
 新增：SimpleChain 36-1至36-3
 
