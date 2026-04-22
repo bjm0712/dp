@@ -1,5 +1,5 @@
-Version 4.40
-[2026.4.16更新]
+Version 4.41
+[2026.4.22更新]
 优化：SimpleChain 36-1至36-3
 
 Version 4.39
