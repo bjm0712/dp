@@ -1,3 +1,7 @@
+Version 4.42
+[2026.6.2更新]
+优化：SimpleChain和SoSoValue
+
 Version 4.41
 [2026.4.22更新]
 优化：SimpleChain 36-1至36-3
