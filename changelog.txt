@@ -1,11 +1,11 @@
-Version 4.43
+Version 4.43:
 [2026.6.13更新]
 优化：SoSo签到 改成 查询空投数量
 
-Version 4.42
+Version 4.42:
 [2026.6.2更新]
 优化：SimpleChain和SoSoValue
 
-Version 4.41
+Version 4.41:
 [2026.4.22更新]
 优化：SimpleChain 36-1至36-3
