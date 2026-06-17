@@ -1,3 +1,7 @@
+Version 4.46
+[2026.6.17更新]
+优化：36-4 SimpleChain 领水
+
 Version 4.45
 [2026.6.15更新]
 新增：36-4 SimpleChain 领水11次
