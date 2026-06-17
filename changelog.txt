@@ -1,3 +1,7 @@
+Version 4.47
+[2026.6.17更新]
+新任务：Arcnova 见37-1至37-3
+
 Version 4.46
 [2026.6.17更新]
 优化：36-4 SimpleChain 领水
