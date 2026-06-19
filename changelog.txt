@@ -1,4 +1,4 @@
-Version 4.49
+Version 4.50
 [2026.6.18更新]
 优化：Arcnova 每日签到 37-3
 
