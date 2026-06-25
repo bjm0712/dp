@@ -1,6 +1,7 @@
-Version 4.51
+Version 4.52
 [2026.6.25更新]
 优化：Arcnova 每日签到 37-3
+优化：36-4 SimpleChain 领水
 
 Version 4.48
 [2026.6.17更新]
