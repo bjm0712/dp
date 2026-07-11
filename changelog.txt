@@ -1,3 +1,8 @@
+Version 4.53
+[2026.7.11更新]
+新任务：Auralaunch 见38-1
+更新：Arcnova 每日签到要先安装APP才行
+
 Version 4.52
 [2026.6.25更新]
 优化：Arcnova 每日签到 37-3
