@@ -1,6 +1,7 @@
 Version 4.53
 [2026.7.11更新]
 新任务：Auralaunch 见38-1
+新增：SimpleChain质押 见36-5
 更新：Arcnova 每日签到要先安装APP才行
 
 Version 4.52
