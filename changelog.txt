@@ -1,3 +1,7 @@
+Version 4.54
+[2026.7.18更新]
+优化：36-3 SimpleChain 每日签到
+
 Version 4.53
 [2026.7.11更新]
 新任务：Auralaunch 见38-1
