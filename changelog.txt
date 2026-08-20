@@ -1,4 +1,4 @@
-Version 4.57
+Version 4.58
 [2026.8.20更新]
 新增：Auralaunch 答题
 
