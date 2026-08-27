@@ -1,5 +1,5 @@
-Version 4.60
-[2026.8.24更新]
+Version 4.61
+[2026.8.27更新]
 新增：Auralaunch 领水 38-3
 
 Version 4.59
