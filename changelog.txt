@@ -1,4 +1,4 @@
-Version 4.62
+Version 4.63
 [2026.9.2更新]
 优化：36-3 SimpleChain 每日签到
 
