@@ -1,6 +1,6 @@
-Version 4.63
-[2026.9.2更新]
-优化：36-3 SimpleChain 每日签到
+Version 4.64
+[2026.9.5更新]
+优化：Auralaunch 答题和领水
 
 Version 4.61
 [2026.8.27更新]
